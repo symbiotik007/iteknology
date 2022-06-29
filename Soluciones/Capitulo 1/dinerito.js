@@ -1,4 +1,4 @@
-let dineroCofla = prompt("¿Cúanto dinero tienes Cofla?");
+/* let dineroCofla = prompt("¿Cúanto dinero tienes Cofla?");
 let dineroRoberto = prompt("¿Cúanto dinero tienes Roberto?");
 let dineroPedro = prompt("¿Cúanto dinero tienes Pedro?");
 
@@ -94,4 +94,4 @@ else if (dineroPedro >= 2.9) {
 
 } else {
     alert("Pedro, lo siento pobre de mierda no te alcanza para ningun helado");
-}
+} */
